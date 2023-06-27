@@ -1,0 +1,55 @@
+H:\New folder\Workspace\C#\WinFormsApp7\bin\Debug\net6.0-windows\WinFormsApp7.exe
+H:\New folder\Workspace\C#\WinFormsApp7\bin\Debug\net6.0-windows\WinFormsApp7.deps.json
+H:\New folder\Workspace\C#\WinFormsApp7\bin\Debug\net6.0-windows\WinFormsApp7.runtimeconfig.json
+H:\New folder\Workspace\C#\WinFormsApp7\bin\Debug\net6.0-windows\WinFormsApp7.dll
+H:\New folder\Workspace\C#\WinFormsApp7\bin\Debug\net6.0-windows\WinFormsApp7.pdb
+H:\New folder\Workspace\C#\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.csproj.AssemblyReference.cache
+H:\New folder\Workspace\C#\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.csproj.ResolveComReference.cache
+H:\New folder\Workspace\C#\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.Form1.resources
+H:\New folder\Workspace\C#\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.csproj.GenerateResource.cache
+H:\New folder\Workspace\C#\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.GeneratedMSBuildEditorConfig.editorconfig
+H:\New folder\Workspace\C#\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.AssemblyInfoInputs.cache
+H:\New folder\Workspace\C#\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.AssemblyInfo.cs
+H:\New folder\Workspace\C#\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.csproj.CoreCompileInputs.cache
+H:\New folder\Workspace\C#\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.dll
+H:\New folder\Workspace\C#\WinFormsApp7\obj\Debug\net6.0-windows\refint\WinFormsApp7.dll
+H:\New folder\Workspace\C#\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.pdb
+H:\New folder\Workspace\C#\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.genruntimeconfig.cache
+H:\New folder\Workspace\C#\WinFormsApp7\obj\Debug\net6.0-windows\ref\WinFormsApp7.dll
+H:\New folder\Workspace\C#\WinFormsApp7\bin\Debug\net6.0-windows\Microsoft.Office.Interop.Word.dll
+H:\New folder\Workspace\C#\WinFormsApp7\bin\Debug\net6.0-windows\Office.dll
+H:\New folder\Workspace\C#\WinFormsApp7\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Core.dll
+H:\New folder\Workspace\C#\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.csproj.CopyComplete
+D:\Workspace\C#\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.dll
+D:\Workspace\C#\WinFormsApp7\obj\Debug\net6.0-windows\refint\WinFormsApp7.dll
+D:\Workspace\C#\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.pdb
+D:\Workspace\C#\WinFormsApp7\bin\Debug\net6.0-windows\WinFormsApp7.exe
+D:\Workspace\C#\WinFormsApp7\bin\Debug\net6.0-windows\WinFormsApp7.deps.json
+D:\Workspace\C#\WinFormsApp7\bin\Debug\net6.0-windows\WinFormsApp7.runtimeconfig.json
+D:\Workspace\C#\WinFormsApp7\bin\Debug\net6.0-windows\WinFormsApp7.dll
+D:\Workspace\C#\WinFormsApp7\bin\Debug\net6.0-windows\WinFormsApp7.pdb
+D:\Workspace\C#\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.csproj.AssemblyReference.cache
+D:\Workspace\C#\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.csproj.ResolveComReference.cache
+D:\Workspace\C#\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.Form1.resources
+D:\Workspace\C#\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.csproj.GenerateResource.cache
+D:\Workspace\C#\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\C#\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.AssemblyInfoInputs.cache
+D:\Workspace\C#\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.AssemblyInfo.cs
+D:\Workspace\C#\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.csproj.CoreCompileInputs.cache
+D:\Workspace\C#\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.csproj.CopyComplete
+D:\Workspace\C#\WinFormsApp7\obj\Debug\net6.0-windows\WinFormsApp7.genruntimeconfig.cache
+D:\Workspace\C#\WinFormsApp7\obj\Debug\net6.0-windows\ref\WinFormsApp7.dll
+D:\Workspace\C#\WinFormsApp7\bin\Debug\net6.0-windows\Spire.Doc.dll
+D:\Workspace\C#\WinFormsApp7\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Word.dll
+D:\Workspace\C#\WinFormsApp7\bin\Debug\net6.0-windows\GemBox.Document.dll
+D:\Workspace\C#\WinFormsApp7\bin\Debug\net6.0-windows\HarfBuzzSharp.dll
+D:\Workspace\C#\WinFormsApp7\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+D:\Workspace\C#\WinFormsApp7\bin\Debug\net6.0-windows\SkiaSharp.dll
+D:\Workspace\C#\WinFormsApp7\bin\Debug\net6.0-windows\runtimes\osx\native\libHarfBuzzSharp.dylib
+D:\Workspace\C#\WinFormsApp7\bin\Debug\net6.0-windows\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+D:\Workspace\C#\WinFormsApp7\bin\Debug\net6.0-windows\runtimes\win-x64\native\libHarfBuzzSharp.dll
+D:\Workspace\C#\WinFormsApp7\bin\Debug\net6.0-windows\runtimes\win-x86\native\libHarfBuzzSharp.dll
+D:\Workspace\C#\WinFormsApp7\bin\Debug\net6.0-windows\runtimes\osx\native\libSkiaSharp.dylib
+D:\Workspace\C#\WinFormsApp7\bin\Debug\net6.0-windows\runtimes\win-arm64\native\libSkiaSharp.dll
+D:\Workspace\C#\WinFormsApp7\bin\Debug\net6.0-windows\runtimes\win-x64\native\libSkiaSharp.dll
+D:\Workspace\C#\WinFormsApp7\bin\Debug\net6.0-windows\runtimes\win-x86\native\libSkiaSharp.dll
